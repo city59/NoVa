@@ -1,3 +1,6 @@
+# TSC paper
+https://ieeexplore.ieee.org/document/11685425
+
 ## Environment
 
 The codes of NoVa are implemented and tested under the following development environment:
